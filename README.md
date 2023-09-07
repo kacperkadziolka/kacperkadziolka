@@ -1,10 +1,8 @@
 ### Hi there, I'm Kacper Kadziolka 👋
 
-- I'm interested in backend development, continuously learning :book:
-- Java and Spring Boot enthusiast 🌱
+- I'm interested in backend development and enthusiastic about large complex architectures, with tracked expertise in Java and Spring / Spring Boot environments :book:
+- Artificial Intelligence devotee and student, following Master's degree 🌱
 - Certified AWS Associate Solution Architect :cloud:
-
-My most recent project that I'm working on right now: [News Subscriber](https://github.com/kacperkadziolka/news-subscriber)
 
 ---
 
